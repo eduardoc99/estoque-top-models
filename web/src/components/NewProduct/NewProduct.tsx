@@ -39,7 +39,8 @@ export function NewProduct() {
         icon: "error",
         title: "Oops...",
         text: "Ocorreu um erro ao cadastrar o seu produto :(",
-        footer: '<a href="">Why do I have this issue?</a>',
+        footer: '<a href="/contato">Entre em contato com os dev</a>',
+        
       });
     }
   }
